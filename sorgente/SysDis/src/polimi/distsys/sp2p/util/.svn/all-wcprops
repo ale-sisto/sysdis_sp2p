@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/83/trunk/trunk/src/polimi/distsys/sp2p/util
+END
+StreamCipherInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/trunk/trunk/src/polimi/distsys/sp2p/util/StreamCipherInputStream.java
+END
+StreamCipherOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/trunk/src/polimi/distsys/sp2p/util/StreamCipherOutputStream.java
+END
+BitArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/83/trunk/trunk/src/polimi/distsys/sp2p/util/BitArray.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/trunk/src/polimi/distsys/sp2p/util/Scheduler.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/79/trunk/trunk/src/polimi/distsys/sp2p/util/Listener.java
+END
+PortChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18/trunk/trunk/src/polimi/distsys/sp2p/util/PortChecker.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/trunk/src/polimi/distsys/sp2p/util/Serializer.java
+END

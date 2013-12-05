@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/93/trunk/trunk/src/polimi/distsys/sp2p/crypto
+END
+StreamCipherInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/93/trunk/trunk/src/polimi/distsys/sp2p/crypto/StreamCipherInputStream.java
+END
+StreamCipherOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/93/trunk/trunk/src/polimi/distsys/sp2p/crypto/StreamCipherOutputStream.java
+END
+DigestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/83/trunk/trunk/src/polimi/distsys/sp2p/crypto/DigestInputStream.java
+END
+EncryptedSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/93/trunk/trunk/src/polimi/distsys/sp2p/crypto/EncryptedSocketFactory.java
+END

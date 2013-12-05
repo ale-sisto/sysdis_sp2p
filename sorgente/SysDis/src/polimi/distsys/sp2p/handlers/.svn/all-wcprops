@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/trunk/src/polimi/distsys/sp2p/handlers
+END
+SecurityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/62/trunk/trunk/src/polimi/distsys/sp2p/handlers/SecurityHandler.java
+END
+SimpleNodeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/92/trunk/trunk/src/polimi/distsys/sp2p/handlers/SimpleNodeServer.java
+END
+RoutingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/83/trunk/trunk/src/polimi/distsys/sp2p/handlers/RoutingHandler.java
+END
+SearchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/trunk/src/polimi/distsys/sp2p/handlers/SearchHandler.java
+END
+DownloadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/92/trunk/trunk/src/polimi/distsys/sp2p/handlers/DownloadHandler.java
+END

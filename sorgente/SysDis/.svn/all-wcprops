@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/93/trunk/trunk
+END
+credentials.list
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/42/trunk/trunk/credentials.list
+END
+superNodes.list
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/trunk/superNodes.list
+END
+supernodes.list
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/trunk/supernodes.list
+END
+simplenode.info
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/trunk/simplenode.info
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/trunk/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/29/trunk/trunk/.classpath
+END
+supernode.info
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/42/trunk/trunk/supernode.info
+END
